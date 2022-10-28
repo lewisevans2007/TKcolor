@@ -1,4 +1,4 @@
-*Note from 2022*: Look i know this looks auwfull but this was one of my first repositorys
+**Note from 2022**: Look i know this looks auwfull but this was one of my first repositorys
 
 # TKcolor
 A tkinter based colour picker
